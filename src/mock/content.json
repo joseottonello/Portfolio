@@ -57,8 +57,8 @@
     {
         "name": "Advance", 
         "type": "skill",       
-        "icon1": "https://img.icons8.com/wired/60/000000/react.png",
-        "icon2": "https://img.icons8.com/ios/60/000000/redux.png",
+        "icon1": "https://img.icons8.com/ios/60/000000/redux.png",
+        "icon2": "//img.icons8.com/ios/65/000000/react-native--v1.png",
         "icon3": "https://img.icons8.com/external-tal-revivo-regular-tal-revivo/60/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-regular-tal-revivo.png",
         "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus."
     },
