@@ -1,0 +1,18 @@
+@import "mixins";
+
+.skills-content {
+    gap: 2rem;
+    width: 52rem;
+    margin-top: 10rem;
+    @include Flex(column, center, center);
+    
+    @media screen and (max-width: 575px) {
+        margin-top: 5rem;
+        width: 20rem;
+    }
+    
+    .skills-content-children,
+    .skills-content-children-card {
+        @include Flex(column, center, center);
+    }
+}

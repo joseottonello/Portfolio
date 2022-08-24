@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Caveat&family=Caveat+Brush&family=Quicksand:wght@300&display=swap');
+@import "mixins";
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+
+    @media screen and (max-width: 575px) {
+        font-size: 2rem;
+    }
+}
+
+h2 {
+    color: #b8b2b2;
+    text-align: center;
+    font-family: 'Caveat Brush', cursive;
+    text-transform: uppercase;
+
+    @media screen and (max-width: 575px) {
+        font-size: 1.2rem;
+    }
+}
+
+p {
+    font-size: 1.2rem;
+    text-align: justify;
+    font-weight: 0;
+    font-family: 'Quicksand', sans-serif;
+    
+    @media screen and (max-width: 575px) {
+        font-size: 1.1rem;
+    }
+}
+
+span {
+    font-family: 'Quicksand', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    margin: 0.5rem;
+}
+
+body {
+    margin: 0;
+    box-sizing: inherit;
+    background: #faf8f8;
+    
+    .app-content { 
+        @include Flex(column, center, center);
+        margin: 0 15rem 0 15rem;
+        
+        @media screen and (max-width: 575px) {
+            margin: 0 10rem 0 10rem;
+        }
+    }
+}
+
+
+

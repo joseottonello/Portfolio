@@ -1,0 +1,17 @@
+@import "mixins";
+
+.tools-content {
+    gap: 2rem;
+    width: 52rem;
+    margin-top: 5rem;
+    @include Flex(column, center, center);
+    
+    @media screen and (max-width: 575px) {
+        width: 20rem;
+    }
+
+    .tools-content-children,
+    .tools-content-children-card {
+        @include Flex(column, center, center);
+    }
+}

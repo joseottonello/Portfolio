@@ -1,0 +1,29 @@
+@import "mixins";
+
+.presentation-content {
+    margin-top: 5rem;
+    @include Flex(row, center, center);
+    
+    @media screen and (max-width: 575px) {
+        margin-top: 2rem;
+        @include Flex(column-reverse, center, center);
+    }
+    
+    .presentation-content-text {
+        margin: 1rem;
+        
+        .presentation-content-text-actions {
+            gap: 1rem;
+            margin: 1rem;
+            @include Flex(row, center, center);
+        }
+    }
+
+    .presentation-content-photo {
+        width: 30rem;
+        
+        @media screen and (max-width: 575px) {
+            width: 20rem;
+        }
+    }
+}
