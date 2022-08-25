@@ -15,7 +15,7 @@ const Contact = () => {
         data-aos="fade-up" 
         data-aos-duration="2000">
             <h1>Contacto</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur blanditiis quam dolore natus sequi laborum, id modi ullam debitis architecto voluptatum? Dolorem deserunt neque architecto iusts!</p>
+            <p>¡Espero que te haya gustado mi portafolio! Te invito a visitar la pagina cuando gustes, si es así, es posible que encuentres modificaciones, pero no te asustes los programadores somos asi, no podemos dar por finalizado los proyectos ¡no queremos soltarlos! Te dejo mis medios de contacto para que puedas comunicarte conmigo si así lo deseas, clickeando cada icono vas a poder acceder a cada uno de ellos 😃</p>
             <section className="contact-content-socialMedia">
                 <article className="contact-content-socialMedia-icons">
                     <a 

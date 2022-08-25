@@ -3,48 +3,48 @@
     {
         "name": "José Ottonello",
         "profile": "Frontend Dev",
-        "description": "Desarrollador de interfaz de usuario, apasionado por React y su stack de librerias. Innovador y empatico.",
+        "description": "Desarrollador de interfaces de usuario, apasionado por React 🚀 y su stack de librerias. Innovador y empatico.",
         "path": "./images/profile.jpg"
     },
     {
         "type": "portfolio",
         "name": "Ecommerce Vans",
-        "description": "Mi mas reciente proyecto, un ecommerce como proyecto final para el curso de React de Coderhouse con cual me posicioné en el top 10, utilizando hooks como useState para almacenar el estado de la compra, useEffect para optimizar el rendimiento de la aplicación y useContext para manipar la compra del usuario. Con la integracion de librerias como React Router para movernos entre secciones optimizadas que nos evita la renderizacion y Material UI para una estilizacion simple y ordenada.",
+        "description": "Ecommerce como proyecto final para el curso de React de Coderhouse con el cual me posicioné en el top 10, utilizando hooks como useState para almacenar el estado de la compra, useEffect para optimizar el rendimiento de la aplicación y useContext para manipular la compra del usuario. Con la integración de librerias como React Router para movernos entre secciones optimizadas que nos evita la renderizacion y Material UI para una estilización simple y ordenada.",
         "path": "./images/ecommerce.gif",
         "deploy": "https://ecommerce-vans-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/EcommerceVans"
     },
     {
         "type": "portfolio",
-        "name": "Online Rentals",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus.",
+        "name": "Inmobiliaria Online",
+        "description": "Inmobiliaria como proyecto final para el curso de JavaScript de Coderhouse en el que mediante la interaccion de HTML, CSS y JavaScript sumado a la utilización de Bootstrap y SASS logré la creación de una alternativa que ahorre tiempo y dinero con la posibilidad de reservar una propiedad mediante la pagina y evitar colision en la inmobiliaria fisica como tambien visitar mas de una propiedad.",
         "path": "./images/onlinerentals.gif",
         "deploy": "https://online-rentals-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/OnlineRentals"
     },
     {
         "type": "portfolio",
-        "name": "To do List App",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus.",
-        "path": "./images/todolist.gif",
-        "deploy": "https://todo-list-app-joseottonello.vercel.app/",
-        "repo": "https://github.com/joseottonello/TodoList-App"
-    },
-    {
-        "type": "portfolio",
-        "name": "Calculator App",        
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus.",
+        "name": "Aplicación Calculadora funcional",        
+        "description": "Uno de los proyectos mas convencionales para practicar la logica programacional, pero de mucha utilidad para agilizar el uso de funciones, condionales, clases, metodos de arreglos y demas. Es una calculadora funcional que es de gran ayuda para el uso cotidiano.",
         "path": "./images/calculator.gif",
         "deploy": "https://calculator-app-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/Calculator-App"
     },
     {
         "type": "portfolio",
-        "name": "Notes App",        
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus.",
+        "name": "Aplicación Anotador de mano",        
+        "description": "Todos necesitamos un anotador a mano a la hora de estudiar o trabajar y el uso de la hoja en papel comienza a caducar, me parecio un buen proyecto para mantener todo el ecosistema de estudio/trabajo en el computador. Fue de gran ayuda para practicar el uso de eventos, almacenar datos en el almacenamiento local del navegador, metodos de objetos, parsear a JSON y demas. Es una aplicacion que recomiendo, a mi me sirve mucho a organizarme, es minimalista y practico. ",
         "path": "./images/notes.gif",
         "deploy": "https://notes-app-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/Notes-App"
+    },
+    {
+        "type": "portfolio",
+        "name": "Aplicación To do List",
+        "description": "Este proyecto surgio a partir de la aplicación anterior 'Anotador de mano', sentía la necesidad de desglosar una tarea sin volver mas extensa la aplicación anterior, Este To do List es muy util para subdividir tareas e ir tachando a medida que se realizan, en su creacion utilicé clases, eventos, manejo de fechas, destructuración, condicionales. Recomiendo practicarlo y tambien utlizarlo, es un complemento al proyecto anterior y es de gran utilidad.",
+        "path": "./images/todolist.gif",
+        "deploy": "https://todo-list-app-joseottonello.vercel.app/",
+        "repo": "https://github.com/joseottonello/TodoList-App"
     },
     {
         "name": "Lenguajes Principales", 
@@ -52,21 +52,21 @@
         "icon1": "https://img.icons8.com/wired/60/000000/html-5.png",
         "icon2": "https://img.icons8.com/wired/60/000000/css3.png",
         "icon3": "https://img.icons8.com/wired/60/000000/javascript-logo.png",
-        "description": "Para insertarme en el universo IT comencé por realizar proyectos con sus tres lenguajes principales de marcado, estilo de hoja en cascada y programación como lo son HTML, CSS y JavaScript."
+        "description": "Para insertarme en el universo IT comencé por realizar proyectos con sus tres lenguajes principales como lo son HTML lenguaje de marcado, CSS lenguaje de estilización y JavaScript💥 lenguaje de programación."
     },
     {
         "name": "Programación Avanzada", 
         "type": "skill",       
         "icon1": "//img.icons8.com/ios/65/000000/react-native--v1.png",
         "icon2": "https://img.icons8.com/ios/60/000000/redux.png",
-        "description": "Con el objetivo de lograr un mayor rendimiento y mejorar la calidad de mis proyectos decidí interiorizarme en React, libreria mas demandada del mercado y la compatibilidad con demas librerias como Redux para el manejo de estados."
+        "description": "Con el objetivo de lograr un mayor rendimiento y mejorar la calidad de mis proyectos decidí interiorizarme en React, libreria basada en JavaScript mas demandada del mercado y la compatibilidad con demas librerias como Redux para el manejo de estados."
     },
     {
         "name": "Librerias y Preprocesadores", 
         "type": "skill",
         "icon1": "https://img.icons8.com/ios/60/000000/sass-avatar.png",
         "icon2": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/60/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-light-tal-revivo.png",
-        "description": "Para mantener un codigo ordenado y optimizado usualmente utilizo SASS, me permite reutilizar muchas piezas de codigo aunque tambien librerias como Bootstrap y Styled Components suelo involucrarlas en mis proyectos."
+        "description": "Para mantener un codigo ordenado y optimizado usualmente utilizo SASS, me permite reutilizar muchas piezas de codigo💣 aunque tambien librerias como Bootstrap y Styled Components suelo involucrarlas en mis proyectos."
     },
     {
         "name": "Base de Datos", 
@@ -76,15 +76,15 @@
         "description": "El almacenamiento de datos es de suma importancia para el registro de la interaccion de los usuarios con el sitio web, por eso bases de datos como SQL y Firebase me permiten almacenar datos relacional y no relacional respectivamente."
     },
     {
-        "name": "Software de gestion de proyectos", 
-        "type": "tool",
-        "icon": "https://img.icons8.com/material-outlined/60/000000/notion--v1.png",
-        "description": "Herramienta la cual considero fundamental para mi dia a dia, en ella organizo y separo las tareas de cada dia, correspondiente a cada proyecto que me encuentre realizando, tambien documento la información de cada lenguaje, libreria y frameworks que voy aprendiendo."
-    },
-    {
         "name": "software de control de versiones", 
         "type": "tool",
         "icon": "https://img.icons8.com/ios/60/000000/git.png",
         "description": "Esencial para cualquier desarollador, almaceno cada uno de mis proyectos en Git, me permite regresar a versiones anteriores si me encuentro con inconvenientes, ramificar un mismo proyecto, mantener guardados proyectos que ya esten finalizados sin ocupar espacio en mi computador, son algunas de las funcionalidades que mas utilizo."
+    },
+    {
+        "name": "Software de gestion de proyectos", 
+        "type": "tool",
+        "icon": "https://img.icons8.com/material-outlined/60/000000/notion--v1.png",
+        "description": "Herramienta en la cual organizo y separo las tareas de cada dia, correspondiente a cada proyecto que me encuentre realizando y documento la información de cada lenguaje, libreria y frameworks que voy aprendiendo."
     }
 ]
