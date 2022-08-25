@@ -14,7 +14,7 @@ const Contact = () => {
         className="contact-content"
         data-aos="fade-up" 
         data-aos-duration="2000">
-            <h1>Contact</h1>
+            <h1>Contacto</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur blanditiis quam dolore natus sequi laborum, id modi ullam debitis architecto voluptatum? Dolorem deserunt neque architecto iusts!</p>
             <section className="contact-content-socialMedia">
                 <article className="contact-content-socialMedia-icons">

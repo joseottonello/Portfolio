@@ -2,14 +2,14 @@
     
     {
         "name": "José Ottonello",
-        "profile": "Frontend Developer",
-        "description": "Lorem ipsum dolor sit amet amet consectetur consecte adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim error nisi error nisi.",
+        "profile": "Frontend Dev",
+        "description": "Desarrollador de interfaz de usuario, apasionado por React y su stack de librerias. Innovador y empatico.",
         "path": "./images/profile.jpg"
     },
     {
         "type": "portfolio",
         "name": "Ecommerce Vans",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus.",
+        "description": "Mi mas reciente proyecto, un ecommerce como proyecto final para el curso de React de Coderhouse con cual me posicioné en el top 10, utilizando hooks como useState para almacenar el estado de la compra, useEffect para optimizar el rendimiento de la aplicación y useContext para manipar la compra del usuario. Con la integracion de librerias como React Router para movernos entre secciones optimizadas que nos evita la renderizacion y Material UI para una estilizacion simple y ordenada.",
         "path": "./images/ecommerce.gif",
         "deploy": "https://ecommerce-vans-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/EcommerceVans"
@@ -47,38 +47,44 @@
         "repo": "https://github.com/joseottonello/Notes-App"
     },
     {
-        "name": "Basic", 
+        "name": "Lenguajes Principales", 
         "type": "skill",       
         "icon1": "https://img.icons8.com/wired/60/000000/html-5.png",
         "icon2": "https://img.icons8.com/wired/60/000000/css3.png",
         "icon3": "https://img.icons8.com/wired/60/000000/javascript-logo.png",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus."
+        "description": "Para insertarme en el universo IT comencé por realizar proyectos con sus tres lenguajes principales de marcado, estilo de hoja en cascada y programación como lo son HTML, CSS y JavaScript."
     },
     {
-        "name": "Advance", 
+        "name": "Programación Avanzada", 
         "type": "skill",       
-        "icon1": "https://img.icons8.com/ios/60/000000/redux.png",
-        "icon2": "//img.icons8.com/ios/65/000000/react-native--v1.png",
-        "icon3": "https://img.icons8.com/external-tal-revivo-regular-tal-revivo/60/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-regular-tal-revivo.png",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus."
+        "icon1": "//img.icons8.com/ios/65/000000/react-native--v1.png",
+        "icon2": "https://img.icons8.com/ios/60/000000/redux.png",
+        "description": "Con el objetivo de lograr un mayor rendimiento y mejorar la calidad de mis proyectos decidí interiorizarme en React, libreria mas demandada del mercado y la compatibilidad con demas librerias como Redux para el manejo de estados."
     },
     {
-        "name": "Preprocessors & Libraries", 
+        "name": "Librerias y Preprocesadores", 
         "type": "skill",
         "icon1": "https://img.icons8.com/ios/60/000000/sass-avatar.png",
         "icon2": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/60/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-light-tal-revivo.png",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus."
+        "description": "Para mantener un codigo ordenado y optimizado usualmente utilizo SASS, me permite reutilizar muchas piezas de codigo aunque tambien librerias como Bootstrap y Styled Components suelo involucrarlas en mis proyectos."
     },
     {
-        "name": "Project management & Note taking", 
+        "name": "Base de Datos", 
+        "type": "skill",
+        "icon1": "https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png",
+        "icon2": "https://img.icons8.com/external-tal-revivo-regular-tal-revivo/60/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-regular-tal-revivo.png",
+        "description": "El almacenamiento de datos es de suma importancia para el registro de la interaccion de los usuarios con el sitio web, por eso bases de datos como SQL y Firebase me permiten almacenar datos relacional y no relacional respectivamente."
+    },
+    {
+        "name": "Software de gestion de proyectos", 
         "type": "tool",
         "icon": "https://img.icons8.com/material-outlined/60/000000/notion--v1.png",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus."
+        "description": "Herramienta la cual considero fundamental para mi dia a dia, en ella organizo y separo las tareas de cada dia, correspondiente a cada proyecto que me encuentre realizando, tambien documento la información de cada lenguaje, libreria y frameworks que voy aprendiendo."
     },
     {
-        "name": "Version Control System", 
+        "name": "software de control de versiones", 
         "type": "tool",
         "icon": "https://img.icons8.com/ios/60/000000/git.png",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, eum sit vitae hic aperiam error nisi enim ipsa libero iusto animi sapiente amet aut quas illo laboriosam minus."
+        "description": "Esencial para cualquier desarollador, almaceno cada uno de mis proyectos en Git, me permite regresar a versiones anteriores si me encuentro con inconvenientes, ramificar un mismo proyecto, mantener guardados proyectos que ya esten finalizados sin ocupar espacio en mi computador, son algunas de las funcionalidades que mas utilizo."
     }
 ]

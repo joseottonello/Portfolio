@@ -17,7 +17,7 @@ const Skills = () => {
         className="skills-content"
         data-aos="fade-up" 
         data-aos-duration="2000">
-            <h1>Skills</h1>
+            <h1>Conocimientos</h1>
             {comeContent.map((data) => (
                 <div 
                 key={data.name}
@@ -33,7 +33,7 @@ const Skills = () => {
                             <img src={data.icon1} alt={data.name}/>
                             <img src={data.icon2} alt={data.name}/>
                             {
-                                data.name === "Preprocessors & Libraries" ? null : <img src={data.icon3} alt={data.name}/>
+                                data.name === "Lenguajes Principales" ? <img src={data.icon3} alt={data.name}/> : null
                             }
                         </article>
                     </section>

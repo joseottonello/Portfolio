@@ -13,5 +13,16 @@
     .tools-content-children,
     .tools-content-children-card {
         @include Flex(column, center, center);
+        
+        .notion-anclaje {
+            color: #b8b2b2;
+            font-weight: 700;
+            transition: all 2s ease;
+        }
+        
+        .notion-anclaje:hover {
+            color: #3314bd;
+            margin: 1rem;
+        }
     }
 }
