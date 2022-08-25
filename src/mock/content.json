@@ -2,8 +2,8 @@
     
     {
         "name": "José Ottonello",
-        "profile": "Frontend Dev",
-        "description": "Desarrollador de interfaces de usuario, apasionado por React 🚀 y su stack de librerias. Innovador y empatico.",
+        "profile": "Frontend Dev 🚀",
+        "description": "Desarrollador de interfaces de usuario, apasionado por React y su stack de librerias. Innovador y empatico.",
         "path": "./images/profile.jpg"
     },
     {
@@ -52,7 +52,7 @@
         "icon1": "https://img.icons8.com/wired/60/000000/html-5.png",
         "icon2": "https://img.icons8.com/wired/60/000000/css3.png",
         "icon3": "https://img.icons8.com/wired/60/000000/javascript-logo.png",
-        "description": "Para insertarme en el universo IT comencé por realizar proyectos con sus tres lenguajes principales como lo son HTML lenguaje de marcado, CSS lenguaje de estilización y JavaScript💥 lenguaje de programación."
+        "description": "Para insertarme en el universo IT comencé por realizar proyectos con sus tres lenguajes principales como lo son HTML lenguaje de marcado, CSS lenguaje de estilización y JavaScript lenguaje de programación."
     },
     {
         "name": "Programación Avanzada", 
@@ -66,7 +66,7 @@
         "type": "skill",
         "icon1": "https://img.icons8.com/ios/60/000000/sass-avatar.png",
         "icon2": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/60/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-light-tal-revivo.png",
-        "description": "Para mantener un codigo ordenado y optimizado usualmente utilizo SASS, me permite reutilizar muchas piezas de codigo💣 aunque tambien librerias como Bootstrap y Styled Components suelo involucrarlas en mis proyectos."
+        "description": "Para mantener un codigo ordenado y optimizado usualmente utilizo SASS, me permite reutilizar muchas piezas de codigo aunque tambien librerias como Bootstrap y Styled Components suelo involucrarlas en mis proyectos."
     },
     {
         "name": "Base de Datos", 
