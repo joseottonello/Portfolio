@@ -20,13 +20,13 @@ const Presentation = () => {
     const theme = createTheme({
         palette: {
           primary: {
-            main: '#000',
+            main: '#3283FC',
           },
           secondary: {
-            main: '#000',
+            main: '#888',
           },
         },
-      });
+    });
 
     return (
         <>
@@ -51,11 +51,16 @@ const Presentation = () => {
                                 href="https://www.linkedin.com/in/frontend-ottonellojose/"
                                 target="_blank"
                                 variant="contained" 
-                                color="primary" 
+                                color="primary"
                                 startIcon={<LinkedInIcon/>}
                                 >LINKEDIN
                                 </Button>
-                                <Button variant="outlined" color="secondary" startIcon={<DescriptionIcon/>}>CURRICULUM</Button>
+                                <Button 
+                                variant="outlined" 
+                                color="secondary" 
+                                startIcon={<DescriptionIcon/>}
+                                >CURRÍCULUM
+                                </Button>
                             </ThemeProvider>
                         </article> 
                     </section>

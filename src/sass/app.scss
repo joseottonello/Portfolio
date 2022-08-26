@@ -17,7 +17,7 @@ h1 {
 }
 
 h2 {
-    color: #b8b2b2;
+    color: #adabab;
     text-align: center;
     font-family: 'Caveat Brush', cursive;
     text-transform: uppercase;
@@ -43,6 +43,7 @@ span {
 }
 
 a {
+    transition: all 2s ease;
     text-decoration: none;
 }
 
@@ -64,6 +65,3 @@ body {
         }
     }
 }
-
-
-

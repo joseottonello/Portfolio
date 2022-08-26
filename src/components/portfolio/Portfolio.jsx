@@ -19,13 +19,13 @@ const Portfolio = () => {
     const theme = createTheme({
         palette: {
           primary: {
-            main: '#000',
+            main: '#3283FC',
           },
           secondary: {
-            main: '#000',
+            main: '#777',
           },
         },
-      });
+    });
 
     return (
         <div 
@@ -56,7 +56,7 @@ const Portfolio = () => {
                                 href={data.repo} 
                                 target="_blank" 
                                 variant="outlined" 
-                                color="primary" 
+                                color="secondary" 
                                 startIcon={<GitHubIcon/>}
                                     >REPOSITORIO
                                 </Button>

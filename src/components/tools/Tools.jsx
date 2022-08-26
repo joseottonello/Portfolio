@@ -29,13 +29,13 @@ const Tools = () => {
                             <h2>{data.name}</h2>
                             <p>{data.description}</p>
                             {
-                                data.name === "Software de gestion de proyectos" 
+                                data.name === "Software de gestión de proyectos" 
                                     ? <p>
                                         <a 
                                         target="_blank" 
                                         rel="noreferrer" 
                                         href="https://daily-viburnum-53a.notion.site/React-7fe2e10a5b9b44ceb8354fb4c2ae34de" 
-                                        className="notion-anclaje">haciendo click aqui</a> podrás acceder a documentación gratis de React.
+                                        className="notion-anclaje">haciendo click aqui</a> podrás acceder a mi documentación.
                                     </p> : null
                             }
                         </article>

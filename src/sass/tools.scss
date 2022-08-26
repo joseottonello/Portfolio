@@ -15,13 +15,13 @@
         @include Flex(column, center, center);
         
         .notion-anclaje {
-            color: #b8b2b2;
+            color: #888;
             font-weight: 700;
             transition: all 2s ease;
         }
         
         .notion-anclaje:hover {
-            color: #3314bd;
+            color: #3283FC;
             margin: 1rem;
         }
     }

@@ -32,11 +32,6 @@
 
             .contact-content-socialMedia-icons-icon {
                 @include Flex (column, center, center);
-                transition: all 1s ease;
-
-            }
-            .contact-content-socialMedia-icons-icon:hover {
-                font-size: 55px;
             }
         }
     }
