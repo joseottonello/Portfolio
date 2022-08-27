@@ -7,7 +7,6 @@
     @include Flex(column, center, center);
     
     @media screen and (max-width: 575px) {
-        margin-top: 5rem;
         width: 20rem;
     }
     

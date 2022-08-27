@@ -58,10 +58,10 @@ body {
     
     .app-content { 
         @include Flex(column, center, center);
-        margin: 0 15rem 0 15rem;
+        margin: 3rem 15rem 0 15rem;
         
         @media screen and (max-width: 575px) {
-            margin: 2rem 10rem 0 10rem;
+            margin: 3rem 10rem 0 10rem;
         }
     }
 }

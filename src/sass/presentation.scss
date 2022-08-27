@@ -1,11 +1,9 @@
 @import "mixins";
 
 .presentation-content {
-    margin-top: 5rem;
     @include Flex(row, center, center);
     
     @media screen and (max-width: 575px) {
-        margin: 0;
         @include Flex(column-reverse, center, center);
     }
     
