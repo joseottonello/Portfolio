@@ -7,6 +7,7 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import '../../sass/presentation.scss';
+import cv from '../../assets/JoséOttonello.pdf';
 
 
 const Presentation = () => {
@@ -56,8 +57,10 @@ const Presentation = () => {
                                 >LINKEDIN
                                 </Button>
                                 <Button 
+                                href={cv}
                                 variant="outlined" 
                                 color="secondary" 
+                                download
                                 startIcon={<DescriptionIcon/>}
                                 >CURRÍCULUM
                                 </Button>

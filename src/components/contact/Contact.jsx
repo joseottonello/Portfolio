@@ -2,6 +2,7 @@ import { React, useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 import '../../sass/contact.scss';
+import cv from '../../assets/JoséOttonello.pdf';
 
 const Contact = () => {
 
@@ -49,7 +50,8 @@ const Contact = () => {
                     <a 
                     target="_blank" 
                     rel="noreferrer"
-                    href="mailto:dev.ottonellojose@gmail.com" 
+                    href={cv}
+                    download
                     >
                         <img 
                         alt="cv icon"
