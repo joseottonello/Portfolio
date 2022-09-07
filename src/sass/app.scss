@@ -54,7 +54,7 @@ img {
 body {
     margin: 0;
     box-sizing: inherit;
-    background: #faf8f8;
+    background: #ffffff;
     
     .app-content { 
         @include Flex(column, center, center);
