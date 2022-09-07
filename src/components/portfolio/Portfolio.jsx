@@ -58,13 +58,11 @@ const Portfolio = () => {
                                 variant="outlined" 
                                 color="secondary" 
                                 startIcon={<GitHubIcon/>}
-                                    >REPOSITORIO
+                                    >REPOSITORY
                                 </Button>
                             </article>
                         </ThemeProvider>
                     <div>
-                        
-
                     </div>
                     <img 
                     className="portfolio-content-children-img"

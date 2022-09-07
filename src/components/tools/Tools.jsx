@@ -17,7 +17,7 @@ const Tools = () => {
         className="tools-content"
         data-aos="fade-up" 
         data-aos-duration="2000">
-            <h1>Herramientas</h1>
+            <h1>Tools</h1>
             {comeContent.map((data) => (
                 <div 
                 key={data.name}
@@ -29,13 +29,13 @@ const Tools = () => {
                             <h2>{data.name}</h2>
                             <p>{data.description}</p>
                             {
-                                data.name === "Software de gestión de proyectos" 
+                                data.name === "Project management software" 
                                     ? <p>
                                         <a 
                                         target="_blank" 
                                         rel="noreferrer" 
                                         href="https://daily-viburnum-53a.notion.site/React-7fe2e10a5b9b44ceb8354fb4c2ae34de" 
-                                        className="notion-anclaje">haciendo click aqui</a> podrás acceder a mi documentación.
+                                        className="notion-anclaje">Clicking here</a> you can access my documentation.
                                     </p> : null
                             }
                         </article>

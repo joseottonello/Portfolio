@@ -15,8 +15,8 @@ const Contact = () => {
         className="contact-content"
         data-aos="fade-up" 
         data-aos-duration="2000">
-            <h1>Contacto</h1>
-            <p>¡Gracias por llegar hasta acá! Si te gustaron mis proyectos, te invito a ponernos en contacto 👇🏼</p>
+            <h1>Contact</h1>
+            <p>Thanks for getting here! If you liked my projects, I invite you to contact us 👇🏼</p>
             <section className="contact-content-socialMedia">
                 <article className="contact-content-socialMedia-icons">
                     <a 

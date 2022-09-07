@@ -2,89 +2,89 @@
     
     {
         "name": "José Ottonello",
-        "profile": "Frontend Dev 🚀",
-        "description": "Desarrollador de interfaces de usuario, apasionado por React y su stack de librerías. Innovador y empático.",
+        "profile": "React Developer 🚀",
+        "description": "I'm a frontend developer passionate about React and your stack its ecosystem. Innovative and empathic.",
         "path": "./images/profile.png"
+    },
+    {
+        "name": "Main Stack", 
+        "type": "skill",       
+        "icon1": "https://img.icons8.com/wired/60/000000/html-5.png",
+        "icon2": "https://img.icons8.com/wired/60/000000/css3.png",
+        "icon3": "https://img.icons8.com/wired/60/000000/javascript-logo.png",
+        "description": "To insert myself into the IT universe, I started by carrying out projects with its three main languages: HTML markup language, CSS styling language and JavaScript programming language."
+    },
+    {
+        "name": "Advanced Stack", 
+        "type": "skill",       
+        "icon1": "//img.icons8.com/ios/65/000000/react-native--v1.png",
+        "icon2": "https://img.icons8.com/ios/60/000000/redux.png",
+        "description": "In order to achieve better performance and improve the quality of my projects, I decided to get learn React, the most demanded JavaScript library on the market; which is also collaborative with libraries like Redux that allows the management of states."
+    },
+    {
+        "name": "Libraries and Preprocessors", 
+        "type": "skill",
+        "icon1": "https://img.icons8.com/ios/60/000000/sass-avatar.png",
+        "icon2": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/60/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-light-tal-revivo.png",
+        "description": "To keep code organizated and optimized I usually use SASS. This allows me to reuse many pieces of code, although I also often include libraries such as Bootstrap and Styled Components in my projects."
+    },
+    {
+        "name": "Database", 
+        "type": "skill",
+        "icon1": "https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png",
+        "icon2": "https://img.icons8.com/external-tal-revivo-regular-tal-revivo/60/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-regular-tal-revivo.png",
+        "description": "Databases like SQL and Firebase allow me to store relational and non-relational data, in order to carry out the registration of user interaction with the website."
+    },
+    {
+        "name": "Version control system", 
+        "type": "tool",
+        "icon": "https://img.icons8.com/ios/60/000000/git.png",
+        "description": "Essential for any developer, Git allows me to store each of my projects, as well as go back to previous versions, branch the same project and keep finished projects stored without taking up space on my computer."
+    },
+    {
+        "name": "Project management software", 
+        "type": "tool",
+        "icon": "https://img.icons8.com/material-outlined/60/000000/notion--v1.png",
+        "description": "Finally, use Notion to organize the daily tasks of the project you are doing, as well as document the information of each language, library and framework."
     },
     {
         "type": "portfolio",
         "name": "Ecommerce Vans",
-        "description": "Para este proyecto utilicé hooks como useState para almacenar el estado de la compra, useEffect para optimizar el rendimiento de la aplicación y useContext para manipular la compra del usuario. También integré librerías como React Router para generar rutas óptimas sin renderización y Material UI para una estilización simple y ordenada.",
+        "description": "For this project i used React and their functional components, hooks like useState to store the status of the purchase, useEffect to optimize the performance of the application and useContext to manipulate the user's purchase. I've also integrated libraries like React Router to generate optimal routes without rendering and Material UI for simple and neat styling.",
         "path": "./images/ecommerce.gif",
         "deploy": "https://ecommerce-vans-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/EcommerceVans"
     },
     {
         "type": "portfolio",
-        "name": "Inmobiliaria Online",
-        "description": "Creé este proyecto con el objetivo de brindar una alternativa más eficiente en materia inmobiliaria, que ahorre tiempo y dinero y que permita a los usuarios visitar y reservar propiedades desde la web. Para esto utilicé HTML, CSS y JavaScript además de Bootstrap y SASS.",
+        "name": "Online real state agency",
+        "description": "I created this project with the goal of providing a more efficient alternative in real estate, saving time and money and allowing users to visit and reserve properties from the web. For this I used HTML, CSS and JavaScript in addition to Bootstrap and SASS.",
         "path": "./images/onlinerentals.gif",
         "deploy": "https://online-rentals-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/OnlineRentals"
     },
     {
         "type": "portfolio",
-        "name": "Aplicación Calculadora funcional",        
-        "description": "Uno de los proyectos mas convencionales para practicar la lógica programacional, pero de mucha utilidad para agilizar el uso de funciones, condionales, clases, métodos de arreglos y demás. Esta calculadora funcional es de gran ayuda para el uso cotidiano.",
+        "name": "Calculator App",        
+        "description": "One of the most conventional projects to practice programming logic, but very useful to speed up the use of functions, conditionals, classes, array methods and others. This functional calculator is a great help for everyday use.",
         "path": "./images/calculator.gif",
         "deploy": "https://calculator-app-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/Calculator-App"
     },
     {
         "type": "portfolio",
-        "name": "Aplicación Anotador de mano",        
-        "description": "Todos necesitamos un anotador a mano a la hora de estudiar o trabajar y el uso de la hoja en papel comienza a caducar, me pareció un buen proyecto para mantener todo el ecosistema de estudio/trabajo en el computador. Fue de gran ayuda para practicar el uso de eventos, guardar datos en el almacenamiento local del navegador, métodos de objetos, parsear a JSON y demás. Es una aplicación que personalmente me sirve mucho para organizarme ya que es minimalista y práctica.",
+        "name": "Notes App",        
+        "description": "I thought of this project to maintain the entire study/work ecosystem on the computer. It was a great help for practicing using events, saving data to the browser's local storage, object and arrays methods, parsing to JSON, and more. It is an application that personally helps me a lot to organize myself since it is minimalist and practical.",
         "path": "./images/notes.gif",
         "deploy": "https://notes-app-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/Notes-App"
     },
     {
         "type": "portfolio",
-        "name": "Aplicación To do List",
-        "description": "Este To do List puede servir como complemento a la aplicación anterior para desglosar las tareas y hacerlas más específicas y acotadas. Para su creación, utilicé clases, eventos, manejo de fechas, destructuración y condicionales.",
+        "name": "To do List App",
+        "description": "This To do List can serve as a complement to the previous application to break down the tasks and make them more specific and limited. For its creation, I used classes, destructuring, events, date handling and conditionals.",
         "path": "./images/todolist.gif",
         "deploy": "https://todo-list-app-joseottonello.vercel.app/",
         "repo": "https://github.com/joseottonello/TodoList-App"
-    },
-    {
-        "name": "Lenguajes Principales", 
-        "type": "skill",       
-        "icon1": "https://img.icons8.com/wired/60/000000/html-5.png",
-        "icon2": "https://img.icons8.com/wired/60/000000/css3.png",
-        "icon3": "https://img.icons8.com/wired/60/000000/javascript-logo.png",
-        "description": "Para insertarme en el universo IT comencé por realizar proyectos con sus tres lenguajes principales como lo son HTML lenguaje de marcado, CSS lenguaje de estilización y JavaScript lenguaje de programación."
-    },
-    {
-        "name": "Programación Avanzada", 
-        "type": "skill",       
-        "icon1": "//img.icons8.com/ios/65/000000/react-native--v1.png",
-        "icon2": "https://img.icons8.com/ios/60/000000/redux.png",
-        "description": "Con el objetivo de lograr un mayor rendimiento y mejorar la calidad de mis proyectos decidí interiorizarme en React, la librería basada en JavaScript mas demandada del mercado; que además es colaborativa con librerías como Redux que permite el manejo de estados."
-    },
-    {
-        "name": "Librerías y Preprocesadores", 
-        "type": "skill",
-        "icon1": "https://img.icons8.com/ios/60/000000/sass-avatar.png",
-        "icon2": "https://img.icons8.com/external-tal-revivo-light-tal-revivo/60/000000/external-bootstrap-a-free-and-open-source-css-framework-logo-light-tal-revivo.png",
-        "description": "Para mantener un código ordenado y optimizado usualmente utilizo SASS. Éste me permite reutilizar muchas piezas de código, aunque también suelo involucrar en mis proyectos librerías como Bootstrap y Styled Components."
-    },
-    {
-        "name": "Base de Datos", 
-        "type": "skill",
-        "icon1": "https://img.icons8.com/external-outline-juicy-fish/60/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png",
-        "icon2": "https://img.icons8.com/external-tal-revivo-regular-tal-revivo/60/000000/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-regular-tal-revivo.png",
-        "description": "Bases de datos como SQL y Firebase me permiten almacenar datos relacional y no relacionalmente, para así llevar registro de la interacción de los usuarios con el sitio web."
-    },
-    {
-        "name": "software de control de versiones", 
-        "type": "tool",
-        "icon": "https://img.icons8.com/ios/60/000000/git.png",
-        "description": "Esencial para cualquier desarollador, Git me permite almacenar cada uno de mis proyectos, como así también regresar a versiones anteriores, ramificar un mismo proyecto y mantener almacenados proyectos ya finalizados sin ocupar espacio en mi computador."
-    },
-    {
-        "name": "Software de gestión de proyectos", 
-        "type": "tool",
-        "icon": "https://img.icons8.com/material-outlined/60/000000/notion--v1.png",
-        "description": "Por último, utilizo Notion para organizar las tareas diarias del proyecto que esté realizando, como así también documentar la información de cada lenguaje, librería y framework."
     }
 ]
