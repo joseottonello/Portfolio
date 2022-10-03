@@ -2,8 +2,8 @@
     
     {
         "name": "José Ottonello",
-        "profile": "React Developer 🚀",
-        "description": "I'm a frontend developer passionate about React and your stack its ecosystem. Innovative and empathic.",
+        "profile": "Frontend Developer 🚀",
+        "description": "I'm a frontend developer mainly working with the React stack, passionate about Next.js and its ecosystem. Innovative and empathic.",
         "path": "./images/profile.png"
     },
     {
@@ -19,7 +19,8 @@
         "type": "skill",       
         "icon1": "//img.icons8.com/ios/65/000000/react-native--v1.png",
         "icon2": "https://img.icons8.com/ios/60/000000/redux.png",
-        "description": "In order to achieve better performance and improve the quality of my projects, I decided to get learn React, the most demanded JavaScript library on the market; which is also collaborative with libraries like Redux that allows the management of states."
+        "icon3": "https://img.icons8.com/fluency-systems-regular/65/000000/nextjs.png",
+        "description": "In order to achieve better performance and improve the quality of my projects, I decided to get learn React, the most demanded JavaScript library on the market; which is also collaborative with libraries like Redux that allows the management of states. Also, I decided to start creating my projects in Next, a framework based on React that allows me to optimize SEO."
     },
     {
         "name": "Libraries and Preprocessors", 

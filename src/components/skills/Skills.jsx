@@ -35,6 +35,9 @@ const Skills = () => {
                             {
                                 data.name === "Main Stack" ? <img src={data.icon3} alt={data.name}/> : null
                             }
+                            {
+                                data.name === "Advanced Stack" ? <img src={data.icon3} alt={data.name}/> : null
+                            }
                         </article>
                     </section>
                 </div>

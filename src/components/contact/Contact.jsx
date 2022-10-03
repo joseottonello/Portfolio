@@ -22,15 +22,14 @@ const Contact = () => {
                     <a 
                     target="_blank" 
                     rel="noreferrer"
-                    href="mailto:dev.ottonellojose@gmail.com" 
+                    href="mailto:ottonellojose@outlook.com" 
                     >
                         <img 
                         alt="gmail icon"
                         className="contact-content-socialMedia-icons-icon"
-                        src="https://img.icons8.com/external-others-inmotus-design/50/000000/external-Gmail-virtual-keyboard-others-inmotus-design-3.png" 
-                        />
+                        src="https://img.icons8.com/ios/50/000000/circled-envelope.png"/>
                     </a>
-                        <h2>GMAIL</h2>
+                        <h2>EMAIL</h2>
                 </article>
                 <article className="contact-content-socialMedia-icons">
                     <a 
